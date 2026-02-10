@@ -4,7 +4,6 @@ import {
 	Client,
 	Account,
 	Storage,
-	Users,
 	Databases,
 	Models,
 	type Account as AccountType,
